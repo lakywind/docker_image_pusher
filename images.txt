@@ -1,6 +1,5 @@
 nginx
-#支持私库
-dani-garcia/vaultwarden:1.34.3
-v2rayA/v2rayA:2.2.6.7
+vaultwarden/server:latest
+v2rayA:latest
 #支持指定架构
 --platform=linux/arm64 xiaoyaliu/alist
